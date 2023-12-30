@@ -210,7 +210,7 @@
 ```
 ## 联系我们
 
-![./wechat.jpg]
+![wechat](./wechat.jpg)
 
 
 
