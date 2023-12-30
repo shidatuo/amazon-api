@@ -213,7 +213,7 @@
 ```
 ## 联系我们
 
-![wechat](./wechat.jpg)
+<div style="text-align: center;"><img src="./wechat.jpg" style="width: 50%;"></div>
 
 
 
