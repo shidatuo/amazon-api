@@ -9,7 +9,7 @@
 
 ## 案例
 
-![](assets/Pasted%20image%2020231230020326.png)
+![](example.png)
 
 ```json
 {
