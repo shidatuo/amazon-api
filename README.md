@@ -213,8 +213,7 @@
 ```
 ## 联系我们
 
-<div style="text-align: center;"><img src="./wechat.jpg" style="width: 50%;"></div>
-
+微信号 : zhouwang99257
 
 
 
