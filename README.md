@@ -9,7 +9,7 @@
 
 ## 案例
 
-![](example.png)
+![](https://cdn.bowangtech.com/website/example.png)
 
 ```json
 {
@@ -213,7 +213,7 @@
 ```
 ## 联系我们
 
-微信号 : zhouwang99257
+![](https://cdn.bowangtech.com/website/zhousheng-weixing.png)
 
 
 
